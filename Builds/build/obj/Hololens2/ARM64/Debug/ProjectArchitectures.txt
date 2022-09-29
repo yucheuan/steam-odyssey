@@ -1,0 +1,1 @@
+D:\3GAX\AS Steam Odyssey\WIP\Hololens2\Builds\Hololens2\Hololens2.vcxproj;arm64

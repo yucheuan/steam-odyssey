@@ -1,0 +1,7 @@
+#include "il2cpp-config.h"
+#include "D:\3GAX\AS Steam Odyssey\WIP\Hololens2\Builds\Il2CppOutputProject\IL2CPP\libil2cpp\gc\BoehmGC.cpp"
+#include "D:\3GAX\AS Steam Odyssey\WIP\Hololens2\Builds\Il2CppOutputProject\IL2CPP\libil2cpp\gc\GCHandle.cpp"
+#include "D:\3GAX\AS Steam Odyssey\WIP\Hololens2\Builds\Il2CppOutputProject\IL2CPP\libil2cpp\gc\GarbageCollector.cpp"
+#include "D:\3GAX\AS Steam Odyssey\WIP\Hololens2\Builds\Il2CppOutputProject\IL2CPP\libil2cpp\gc\NullGC.cpp"
+#include "D:\3GAX\AS Steam Odyssey\WIP\Hololens2\Builds\Il2CppOutputProject\IL2CPP\libil2cpp\gc\WriteBarrier.cpp"
+#include "D:\3GAX\AS Steam Odyssey\WIP\Hololens2\Builds\Il2CppOutputProject\IL2CPP\libil2cpp\gc\WriteBarrierValidation.cpp"
