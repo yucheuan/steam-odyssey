@@ -19,9 +19,9 @@ As for making tailored furniture, this needs a certain degree of professional kn
 #### Ideation:
 In order to fulfill the whole design and fabrication process at affordable expense, we design an end-to-end approach to facilitate design decision-making and guide how to source materials from big retailers, e.g., The Home Depot, and how to fabricate their furniture.
 
-### Design Mockups
-![](https://raw.githubusercontent.com/yucheuan/steam-odyssey/main/Assets/Frame%202.png)
-![](https://raw.githubusercontent.com/yucheuan/steam-odyssey/main/Assets/Frame%203.png)
+### Design Details
+![](https://raw.githubusercontent.com/yucheuan/steam-odyssey/main/Assets/CP1.png)
+![](https://raw.githubusercontent.com/yucheuan/steam-odyssey/main/Assets/CP2.png)
 
 ### Built With
 * [Unity](https://unity.com/)
