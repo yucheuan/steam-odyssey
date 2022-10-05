@@ -2,7 +2,7 @@
 <a name="readme-top"></a>
 ## Steam Odyssey
 
-[![](https://edef4.pcloud.com/cfZvL1QPRZ4l5YqhZrNVRZXZ2Fm8c7Z3VZZYRJZZthabZeXZXVZC7ZfVZLVZOkZMkZyXZkXZVkZAXZSXZzXZgkZAPjl55bJNvuT2GY1cQOzFXNgOhek/Thumbnail.png)](https://vimeo.com/yuchenghuang/steam-odessey)
+[![](https://raw.githubusercontent.com/yucheuan/steam-odyssey/main/Assets/Frame%206.png)](https://vimeo.com/yuchenghuang/steam-odessey)
 <p align="center"><a href="https://vimeo.com/yuchenghuang/steam-odessey"><strong>WATCH THE INTRO VIDEO »</strong></a></p>
 
 ### Intro
@@ -19,11 +19,9 @@ As for making tailored furniture, this needs a certain degree of professional kn
 #### Ideation:
 In order to fulfill the whole design and fabrication process at affordable expense, we design an end-to-end approach to facilitate design decision-making and guide how to source materials from big retailers, e.g., The Home Depot, and how to fabricate their furniture.
 
-<!--
 ### Design Mockups
-![](https://raw.githubusercontent.com/yucheuan/MR-Desktop-system-pad/main/Assets/ReadMePicture-1.jpg)
-![](https://raw.githubusercontent.com/yucheuan/MR-Desktop-system-pad/main/Assets/ReadMePicture-2.jpg)
--->
+![](https://raw.githubusercontent.com/yucheuan/steam-odyssey/main/Assets/Frame%202.png)
+![](https://raw.githubusercontent.com/yucheuan/steam-odyssey/main/Assets/Frame%203.png)
 
 ### Built With
 * [Unity](https://unity.com/)
